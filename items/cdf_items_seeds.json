@@ -1,6 +1,6 @@
 [
   {
-    "id": "seed_poppy",
+    "id": "cdf_seed_poppy",
     "copy-from": "seed",
     "type": "COMESTIBLE",
     "name": "mutated poppy seed",
@@ -9,11 +9,11 @@
     "seed_data": {
       "plant_name": "mutated poppy",
       "fruit": "poppy_bud",
-      "grow": 90
+      "grow": 91
     }
   },
   {
-    "id": "seed_nubamboo",
+    "id": "cdf_seed_nubamboo",
     "copy-from": "seed",
     "type": "COMESTIBLE",
     "name": "nu-bamboo seed",
@@ -36,7 +36,21 @@
       "plant_name": "coffee plant",
       "fruit": "coffee_bean",
       "byproducts": [ "withered" ],
-      "grow": 90
+      "grow": 91
+    }
+  },
+  {
+    "id": "eepp_seed_eggplant",
+    "copy-from": "seed",
+    "type": "COMESTIBLE",
+    "name": "eggplant seed",
+    "name_plural": "eggplant seeds",
+    "description": "Some eggplant seeds.",
+    "seed_data": {
+      "plant_name": "egg and eggplant",
+      "fruit": "eepp_eggplant",
+      "byproducts": [ "withered" ],
+      "grow": 91
     }
   }
 ]

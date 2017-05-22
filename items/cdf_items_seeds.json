@@ -40,15 +40,15 @@
     }
   },
   {
-    "id": "eepp_seed_eggplant",
+    "id": "cdf_seed_eggplant",
     "copy-from": "seed",
     "type": "COMESTIBLE",
     "name": "eggplant seed",
     "name_plural": "eggplant seeds",
     "description": "Some eggplant seeds.",
     "seed_data": {
-      "plant_name": "egg and eggplant",
-      "fruit": "eepp_eggplant",
+      "plant_name": "eggplant",
+      "fruit": "cdf_eggplant",
       "byproducts": [ "withered" ],
       "grow": 91
     }

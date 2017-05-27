@@ -52,5 +52,19 @@
       "byproducts": [ "withered" ],
       "grow": 91
     }
+  },
+  {
+    "id": "cdf_seed_tea",
+    "copy-from": "seed",
+    "type": "COMESTIBLE",
+    "name": "tea bush seed",
+    "name_plural": "tea bush seeds",
+    "description": "Some tea bush seeds.",
+    "seed_data": {
+      "plant_name": "tea bush",
+      "fruit": "tea_raw",
+      "byproducts": [ "withered" ],
+      "grow": 100
+    }
   }
 ]

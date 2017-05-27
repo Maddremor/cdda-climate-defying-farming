@@ -1,0 +1,21 @@
+[
+  {
+    "id": "hydro",
+    "type": "item_group",
+    "items": [
+      [ "cdf_seed_eggplant", 1 ],
+      [ "cdf_eggplant", 2 ],
+      [ "cdf_seed_nubamboo", 1 ],
+      [ "cdf_seed_tea", 1 ]
+    ]
+  },
+  {
+    "id": "farming_seeds",
+    "type": "item_group",
+    "items": [
+      [ "cdf_seed_eggplant", 1 ],
+      [ "cdf_seed_nubamboo", 1 ],
+      [ "cdf_seed_tea", 1 ]
+    ]
+  }
+]

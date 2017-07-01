@@ -66,5 +66,19 @@
       "byproducts": [ "withered" ],
       "grow": 100
     }
+  },
+  {
+    "id": "cdf_seed_tobacco",
+    "copy-from": "seed",
+    "type": "COMESTIBLE",
+    "name": "tobacco seed",
+    "name_plural": "tobacco seeds",
+    "description": "Some tobacco seeds.",
+    "seed_data": {
+      "plant_name": "tobacco plant",
+      "fruit": "tobacco",
+      "byproducts": [ "withered" ],
+      "grow": 91
+    }
   }
 ]

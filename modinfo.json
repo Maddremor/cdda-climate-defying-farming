@@ -6,8 +6,9 @@
     "name": "Climate Defying Farming",
     "author": "Maddremor",
     "description": "Adds different crops that would not grow in New England or are somewhat fantastical.",
-    "category" : "items",
+    "category": "items",
     "path": "",
     "dependencies": [ "dda" ]
   }
 ]
+

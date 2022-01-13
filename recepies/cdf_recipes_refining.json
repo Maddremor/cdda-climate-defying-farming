@@ -3,7 +3,7 @@
     "result": "coke",
     "type": "recipe",
     "category": "CC_CHEM",
-    "subcategory": "CC_CHEM_DRUGS",
+    "subcategory": "CSC_CHEM_DRUGS",
     "skill_used": "cooking",
     "difficulty": 6,
     "time": 240000,
@@ -14,4 +14,3 @@
     "components": [ [ [ "cdf_coca_raw", 200 ] ], [ [ "water_clean", 2 ] ], [ [ "acid", 2 ] ], [ [ "lye_powder", 100 ] ] ]
   }
 ]
-
